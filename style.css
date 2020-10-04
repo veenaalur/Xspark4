@@ -1,0 +1,31 @@
+
+.container {
+	background: url('images/color-gradient-1uw.jpg');
+    padding: 20px;
+    width: 40%;
+    margin-top: 2%;
+}
+
+span
+{
+    color: white;
+}
+
+#chat_box
+{
+/*    width: 90%;*/
+    height:100%;
+    margin-top: 4px;
+}
+.form-group
+{
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: white;
+}
+body
+{
+    background: url(' https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.htmlcsscolor.com%2Fpreview%2Fgallery%2FFFCBA4.png&imgrefurl=https%3A%2F%2Fwww.htmlcsscolor.com%2Fhex%2FFFCBA4&tbnid=G_5Bg6hWBcv24M&vet=12ahUKEwislsm0iJvsAhW01HMBHX5aAekQMygAegUIARCkAQ..i&docid=vCg2Vh1eIPa21M&w=628&h=280&q=light%20peach%20colour%20in%20css&ved=2ahUKEwislsm0iJvsAhW01HMBHX5aAekQMygAegUIARCkAQ');
+}
+
+
